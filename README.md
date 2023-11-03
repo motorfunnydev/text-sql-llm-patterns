@@ -1,10 +1,9 @@
-# LLM-Text-to-SQL-Architectures
+# Text-SQL-LLM-PATTERNS
 
 A comprehensive guide and implementation of architectural patterns that utilize Large Language Models (LLMs) for the efficient generation of SQL from natural language text.
 
-For comprehensive details on the architectural patterns mentioned below, please refer to the accompanying article on Medium. This piece delves into the utilization of LLMS for enhanced BigQuery interactions. You can access the article via this link.
+For comprehensive details on the architectural patterns mentioned below, please refer to the accompanying article on Medium. This piece delves into the utilization of LLMS for enhanced BigQuery interactions.
 
-[Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.arunp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
 
 ## Table of Contents
 
@@ -86,13 +85,13 @@ Similar to Pattern IV but employs a stochastic approach with a temperature setti
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your_username/LLM-Text-to-SQL-Architectures.git
+   git clone https://github.com/your_username/text-sql-llm-patterns.git
    ```
 
 2. Navigate to the directory:
 
    ```bash
-   cd LLM-Text-to-SQL-Architectures
+   cd text-sql-llm-pattern
    ```
 
 3. **Set up a virtual environment**:
@@ -114,12 +113,8 @@ Follow the individual pattern READMEs for detailed setup and usage instructions.
 
 This section discusses the potential pitfalls, challenges, and areas for improvement in the application of LLMs for Text-to-SQL conversion. 
 
-See Medium article: [Architectural Patterns for Text-to-SQL: Leveraging LLMs for Enhanced BigQuery Interactions](https://medium.com/@shankar.arunp/architectural-patterns-for-text-to-sql-leveraging-llms-for-enhanced-bigquery-interactions-59756a749e15?source=friends_link&sk=22b06c1644e968023b24db79f2995588)
 
 ## Contributing 🤝
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Check out CONTRIBUTING.md for guidelines on how to submit pull requests.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
